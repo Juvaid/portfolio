@@ -227,7 +227,7 @@ const Hero = () => {
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="space-y-6">
           <h2 className="text-red-500 font-medium tracking-widest text-sm md:text-base uppercase animate-fade-in-up">
-            Video Editor & Graphics Designer
+            Video Editor & Graphic Designer
           </h2>
           <h1 className="text-5xl md:text-7xl lg:text-9xl font-black tracking-tighter text-white mb-6">
             JUVAID KHAN
